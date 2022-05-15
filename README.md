@@ -13,3 +13,5 @@ A collection of scripts created for automating the different workflows involved 
 * company_page_update.py - Update pages that have been added to the table [here](https://bciwiki.org/index.php/Category:Companies)
 
 * org_social_links.py - Update pages to include categories and web scraped social media links (Facebook, Twitter, LinkedIn, etc.)
+
+* org_find_and_replace.py - Find and replace specified substrings in all [organization pages](https://bciwiki.org/index.php/Category:Organizations)
