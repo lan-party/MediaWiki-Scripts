@@ -15,3 +15,7 @@ A collection of scripts created for automating the different workflows involved 
 * org_social_links.py - Update pages to include categories and web scraped social media links (Facebook, Twitter, LinkedIn, etc.)
 
 * org_find_and_replace.py - Find and replace specified substrings in all [organization pages](https://bciwiki.org/index.php/Category:Organizations)
+
+* software_org_links.py - Add links to and from [software pages](https://bciwiki.org/index.php/Category:Software) and [organization pages](https://bciwiki.org/index.php/Category:Organizations) that have matching websites
+
+* devtool_org_links.py - Add links to and from [developer tool pages](https://bciwiki.org/index.php/Category:Developer_Tools) and [organization pages](https://bciwiki.org/index.php/Category:Organizations) that have matching websites
