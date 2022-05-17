@@ -10,7 +10,7 @@ A collection of scripts created for automating the different workflows involved 
 
 * bulk_image_upload.py - Upload multiple images with auto-generated descriptions
 
-* company_page_update.py - Update pages that have been added to the table [here](https://bciwiki.org/index.php/Category:Companies)
+* company_page_update.py - Update pages that have been added to the [company table](https://bciwiki.org/index.php/Category:Companies)
 
 * org_social_links.py - Update pages to include categories and web scraped social media links (Facebook, Twitter, LinkedIn, etc.)
 
