@@ -12,10 +12,12 @@ A collection of scripts created for automating the different workflows involved 
 
 * company_page_update.py - Update company pages to include info from the [company table](https://bciwiki.org/index.php/Category:Companies) and a generated graphic
 
-* org_social_links.py - Update [organization pages](https://bciwiki.org/index.php/Category:Organizations) to include categories and web scraped social media links (Facebook, Twitter, LinkedIn, etc.)
+* org_social_links.py - Update [organization pages](https://bciwiki.org/index.php/Category:Organizations) to include [categories](https://www.mediawiki.org/wiki/Help:Categories) and web scraped social media links (Facebook, Twitter, LinkedIn, etc.)
 
 * org_find_and_replace.py - Find and replace specified substrings in all [organization pages](https://bciwiki.org/index.php/Category:Organizations)
 
 * software_org_links.py - Add links to and from [software pages](https://bciwiki.org/index.php/Category:Software) and [organization pages](https://bciwiki.org/index.php/Category:Organizations) that have matching websites
 
 * devtool_org_links.py - Add links to and from [developer tool pages](https://bciwiki.org/index.php/Category:Developer_Tools) and [organization pages](https://bciwiki.org/index.php/Category:Organizations) that have matching websites
+
+* software_category_add.py - Add Apple App Store, Google Play Store, and GitHub Repo [category links](https://www.mediawiki.org/wiki/Help:Categories) to all [software]((https://bciwiki.org/index.php/Category:Software)) and [developer tool](https://bciwiki.org/index.php/Category:Developer_Tools) pages with matching links
