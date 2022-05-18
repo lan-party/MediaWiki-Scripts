@@ -21,3 +21,5 @@ A collection of scripts created for automating the different workflows involved 
 * devtool_org_links.py - Add links to and from [developer tool pages](https://bciwiki.org/index.php/Category:Developer_Tools) and [organization pages](https://bciwiki.org/index.php/Category:Organizations) that have matching websites
 
 * software_category_add.py - Add Apple App Store, Google Play Store, and GitHub Repo [category links](https://www.mediawiki.org/wiki/Help:Categories) to all [software](https://bciwiki.org/index.php/Category:Software) and [developer tool](https://bciwiki.org/index.php/Category:Developer_Tools) pages with matching links
+
+* org_site_status.py - List organizations with broken websites
