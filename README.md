@@ -23,3 +23,7 @@ A collection of scripts created for automating the different workflows involved 
 * software_category_add.py - Add Apple App Store, Google Play Store, and GitHub Repo [category links](https://www.mediawiki.org/wiki/Help:Categories) to all [software](https://bciwiki.org/index.php/Category:Software) and [developer tool](https://bciwiki.org/index.php/Category:Developer_Tools) pages with matching links
 
 * org_site_status.py - List organizations with broken websites
+
+* openfda_import.py - Import medical device registrations and applications from the OpenFDA API
+
+* alphabetize_stim_sensing.py - Alphabetize neurostimulation and neurosensing method lists in [companies table](https://bciwiki.org/index.php/Brain_Computer_Interface_Companies) and [software table](https://bciwiki.org/index.php/Category:Software) using the MediaWiki API
